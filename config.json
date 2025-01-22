@@ -11,18 +11,16 @@
     "allowInbox": true,
     "commandDisabled": [],
     "eventDisabled": [],
-    "BOTNAME": "barenp",
-    "AMDIN_NAME": "Vũ Tài",
-    "FACEBOOK_ADMIN": "Tai Vu (Bareno)",
-    "PREFIX": "/",
+    "BOTNAME": "StawAimz",
+    "AMDIN_NAME": "Vũ Tài (Staw)",
+    "FACEBOOK_ADMIN": "Vũ Tài (Bareno)",
+    "PREFIX": "!",
     "ADMINBOT": [
-        "100061250276888",
+        "61562004788243",
         "61550930848343"
-        
-
     ],
     "NDH": [
-         "100061250276888",
+        "61562004788243",
         "61550930848343"
     ],
     "DATABASE": {
